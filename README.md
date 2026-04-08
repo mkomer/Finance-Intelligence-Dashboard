@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/55ab4098-a85f-48be-bb89-fbe74
 3. Run the app:
    `npm run dev`
 
+# Apple Ticker Sample Below
+
+<img width="1083" height="863" alt="image" src="https://github.com/user-attachments/assets/691cd74e-5fce-4547-ba8e-a5b9878cfbe8" />
