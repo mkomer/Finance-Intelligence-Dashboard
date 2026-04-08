@@ -1,8 +1,7 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<img width="1109" height="849" alt="image" src="https://github.com/user-attachments/assets/572d3448-2173-4dae-bbcc-3bcf677e09da" />
 
-# Run and deploy your AI Studio app
+# Sample of new Application for Finance Intelligence Analysis made via Gooogle AI Studio above 
 
 This contains everything you need to run your app locally.
 
@@ -19,5 +18,3 @@ View your app in AI Studio: https://ai.studio/apps/55ab4098-a85f-48be-bb89-fbe74
 3. Run the app:
    `npm run dev`
 
-<img width="1109" height="849" alt="image" src="https://github.com/user-attachments/assets/71d43bec-aa68-426c-a340-2bae84124db7" />
-![Uploading image.png…]()
