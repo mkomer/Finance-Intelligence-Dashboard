@@ -1,4 +1,4 @@
-# Sample of new Application which features dashboard for Finance Research made via Gooogle AI Studio seen below, code copied to this repository 
+# Sample of new "vibe code" Application which features dashboard for Finance Research made via Google AI Studio seen below, code copied to this repository 
 
 <div align="center">
 <img width="1109" height="849" alt="image" src="https://github.com/user-attachments/assets/572d3448-2173-4dae-bbcc-3bcf677e09da" />
